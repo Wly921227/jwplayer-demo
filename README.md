@@ -2,6 +2,7 @@
 
 ### This is the simple demo for jwplayer.
 
+
 ```bash
 npm install
 npm run start
