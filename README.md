@@ -1,4 +1,6 @@
-### JwPlayer Demo
+## JwPlayer Demo
+
+### This is the simple demo for jwplayer.
 
 ```bash
 npm install
